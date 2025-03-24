@@ -1,2 +1,3 @@
-# rules
+# Rules
+
 Rules for AI agents
